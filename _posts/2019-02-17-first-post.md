@@ -1,5 +1,5 @@
 ---
-title: "My first blog for jekyll"
+title: "jekyll을 이용한 첫 블로깅 "
 date: 2019-02-17 18:45 -0800
 categories: Test
 ---
