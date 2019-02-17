@@ -1,3 +1,8 @@
+--
+title: "My first blog for jekyll"
+date: 2019-02-17 18:45 -0800
+categories: Test
+--
 jekyll을 이용한 블로그를 생성 하여 기록을 하여 본다.
 
 일단 제일 간단한..깃헙에 의존하는 정적 블로그를 표시한다.
